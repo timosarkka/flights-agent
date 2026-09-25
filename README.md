@@ -30,7 +30,7 @@ aircraft, airlines, airports and dates as described in my earlier
 
 You can ask questions like this:
 
-![Total flight volume per day](/assets/img/flight_chart6_800.png)
+![Total flight volume per day](/assets/gif/daily_flight_report.gif)
 
 ## 2. Architecture
 
