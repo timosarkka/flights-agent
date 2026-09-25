@@ -4,7 +4,7 @@ A Snowflake Cortex Agent wired up to a Slack channel.
 
 It replies to users questions about flights based on the [Flights ETL Pipeline](https://github.com/timosarkka/flights-elt) data I built earlier. It can query data and even draw charts on-demand.
 
-![People waiting for the flights in the terminal](/assets/img/agents_800.jpg)
+![People waiting for the flights in the terminal](/assets/img/atc_800.jpg)
 
 ## Table of Contents
 
